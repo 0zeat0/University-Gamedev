@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "306961419054",
+    "firebase_url": "https://kanji-sensei-d91e6.firebaseio.com",
+    "project_id": "kanji-sensei-d91e6",
+    "storage_bucket": "kanji-sensei-d91e6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:306961419054:android:c29e0113a1e44159c608bf",
+        "android_client_info": {
+          "package_name": "com.kanjisensei"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "306961419054-06i19p7eocqvs4qbe2kbgchpb4vbepgc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kanjisensei",
+            "certificate_hash": "6f6201f9ead42e78922b697aeb16efbd8401b847"
+          }
+        },
+        {
+          "client_id": "306961419054-hsf94ft2svto211ovbnsrol0qei2d9vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5uMQm4Hd-Om6tXEdwU8pEorNEQSrJ1S0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306961419054-hsf94ft2svto211ovbnsrol0qei2d9vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
